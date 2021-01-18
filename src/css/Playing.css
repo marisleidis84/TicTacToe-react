@@ -1,0 +1,19 @@
+.span{
+    width: 5px;
+    height: 170px;
+}
+
+.spanBorder{
+    border-bottom: 1px  solid grey;
+    border-right: 1px solid grey;
+}
+
+.spanBorder1{
+    border-top: 1px solid grey;
+    border-bottom: 1px  solid grey;
+}
+
+.spanBorder2{
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}
